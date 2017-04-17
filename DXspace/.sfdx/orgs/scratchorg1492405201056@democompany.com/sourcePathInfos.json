@@ -1,0 +1,140 @@
+[
+    [
+        "C:\\Users\\MST\\DXspace\\force-app",
+        {
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1492404906974,
+            "changeTime": 1492404906974,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1492404906974,
+            "changeTime": 1492404906974,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1492406817172,
+            "changeTime": 1492406817172,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1492404906975,
+            "changeTime": 1492404906975,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace",
+        {
+            "sourcePath": "C:\\Users\\MST\\DXspace",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1492405903200,
+            "changeTime": 1492405903200,
+            "contentHash": "ced74cf0fe34bad33ea02e81fa759b12463674f0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492407698983,
+            "changeTime": 1492407698983,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 225,
+            "modifiedTime": 1492407698990,
+            "changeTime": 1492407698990,
+            "contentHash": "0d32200ec7a78de93d312b690ee9f53fd3e197f3"
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492407698995,
+            "changeTime": 1492407698995,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 265,
+            "modifiedTime": 1492407698999,
+            "changeTime": 1492407698999,
+            "contentHash": "3903d873164663607dfef429ad32dfc2d24b0dde"
+        }
+    ],
+    [
+        "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\MST\\DXspace\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1492406817184,
+            "changeTime": 1492406817184,
+            "contentHash": "c95fb76a9036092ded32dda565988a728bb9c7a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
