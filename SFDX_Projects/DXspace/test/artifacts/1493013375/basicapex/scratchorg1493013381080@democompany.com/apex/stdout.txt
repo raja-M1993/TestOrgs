@@ -1,0 +1,4 @@
+1..2
+ok 1 TestCreateRecord_AC.testdata
+ok 2 TestContact.testmycontact
+# Use command "force:apex:test:report -i 7073D000000CiBJ" to retrieve test results.

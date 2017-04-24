@@ -1,0 +1,20 @@
+{
+"settings": {
+        "outputDir": "$WORKSPACE/test/artifacts/$DATETIME[X]",
+        "selenium": true
+    },
+"data":[
+		{
+		"name" : "sampledata",
+		"plan" : "data/sample_data.json"
+		}
+		],
+"jobs":[
+		{
+		"name":"basicapex",
+		"default": true,
+		"orgs":["config/workspace-scratch-def.json"],
+		"testCommand":"apex"
+		}
+		]
+}

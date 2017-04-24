@@ -1,0 +1,69 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 2,
+        "passing": 2,
+        "failing": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Apr 19, 2017 3:45 PM",
+        "testExecutionTime": "115 ms",
+        "testTotalTime": "115 ms",
+        "commandTime": "6349 ms",
+        "testRunId": "7073D0000000pPy",
+        "hostname": "https://innovation-flow-6966-dev-ed.cs70.my.salesforce.com",
+        "orgId": "00D3D0000008axpUAA",
+        "username": "scratchorg1492596900297@democompany.com",
+        "userId": "0053D000000DvBCQA0"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v39.0/tooling/sobjects/ApexTestResult/07M3D000000LEBoUAO"
+            },
+            "Id": "07M3D000000LEBoUAO",
+            "QueueItemId": "7093D0000000XgsQAE",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7073D0000000pPyQAI",
+            "MethodName": "testmycontact",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v39.0/tooling/sobjects/ApexClass/01p3D000000QA7UQAW"
+                },
+                "Id": "01p3D000000QA7UQAW",
+                "Name": "TestContact",
+                "NamespacePrefix": null
+            },
+            "RunTime": 84,
+            "FullName": "TestContact.testmycontact"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v39.0/tooling/sobjects/ApexTestResult/07M3D000000LEBtUAO"
+            },
+            "Id": "07M3D000000LEBtUAO",
+            "QueueItemId": "7093D0000000XgtQAE",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7073D0000000pPyQAI",
+            "MethodName": "testdata",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v39.0/tooling/sobjects/ApexClass/01p3D000000QA7VQAW"
+                },
+                "Id": "01p3D000000QA7VQAW",
+                "Name": "TestCreateRecord_AC",
+                "NamespacePrefix": null
+            },
+            "RunTime": 31,
+            "FullName": "TestCreateRecord_AC.testdata"
+        }
+    ]
+}

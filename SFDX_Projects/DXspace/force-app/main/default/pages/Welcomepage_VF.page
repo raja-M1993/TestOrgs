@@ -1,0 +1,16 @@
+<apex:page standardStylesheets="false" sidebar="false" showHeader="false">
+    <style>
+    .header
+        {
+        color:white;
+        background-color:blue;
+        font-size: 200%;
+        }
+    </style>
+    <div class='header' align='center'>
+         <h1>
+             Welcome Admin
+        </h1>
+    </div>
+   
+</apex:page>

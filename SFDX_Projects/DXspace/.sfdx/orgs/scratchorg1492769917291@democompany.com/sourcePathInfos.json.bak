@@ -1,0 +1,392 @@
+[
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492404906974,
+            "changeTime": 1492404906974,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492404906974,
+            "changeTime": 1492603047104,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492767006550,
+            "changeTime": 1492767006550,
+            "contentHash": "433e738f8c2ced95244028cd735f7a348b344b13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492767694597,
+            "changeTime": 1492767694597,
+            "contentHash": "e29b2986000c602b4323b058376da373180146c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 225,
+            "modifiedTime": 1492407698990,
+            "changeTime": 1492407698990,
+            "contentHash": "0d32200ec7a78de93d312b690ee9f53fd3e197f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateContact.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492407698983,
+            "changeTime": 1492407698983,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateRecord_AC.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateRecord_AC.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 324,
+            "modifiedTime": 1492594683547,
+            "changeTime": 1492594683547,
+            "contentHash": "d00a477a3b9b1e8943a9f65e3c1af1501b12c6d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateRecord_AC.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\CreateRecord_AC.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492594683544,
+            "changeTime": 1492594683544,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\LoginClass_AC.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\LoginClass_AC.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 620,
+            "modifiedTime": 1492767694597,
+            "changeTime": 1492767694597,
+            "contentHash": "0af241d91b9812d3a6001cb7b89af12303b5510d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\LoginClass_AC.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\LoginClass_AC.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492767694596,
+            "changeTime": 1492767694596,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 265,
+            "modifiedTime": 1492407698999,
+            "changeTime": 1492407698999,
+            "contentHash": "3903d873164663607dfef429ad32dfc2d24b0dde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestContact.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492407698995,
+            "changeTime": 1492407698995,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestCreateRecord_AC.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestCreateRecord_AC.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 420,
+            "modifiedTime": 1492595089372,
+            "changeTime": 1492595089372,
+            "contentHash": "3b8aa713b97372a7fe3d7243cb0f0792d61e0acd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestCreateRecord_AC.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\classes\\TestCreateRecord_AC.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1492595089371,
+            "changeTime": 1492595089371,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492594683522,
+            "changeTime": 1492594683522,
+            "contentHash": "f1355109abe3b09066a8cb7ec712f7d109c56973",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\layouts\\TestObject__c-TestObject Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\layouts\\TestObject__c-TestObject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3312,
+            "modifiedTime": 1492594683522,
+            "changeTime": 1492594683522,
+            "contentHash": "04bbb630d2c70f29889adb46d04464b91be10647",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492594683518,
+            "changeTime": 1492594683518,
+            "contentHash": "e2e265c58054dabee16068e3cd768a505548bb23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\objects\\TestObject__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\objects\\TestObject__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2808,
+            "modifiedTime": 1492594683519,
+            "changeTime": 1492594683519,
+            "contentHash": "1cd58c67856e207f73110bb34b64f2d1ecea6289",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492767694594,
+            "changeTime": 1492767694594,
+            "contentHash": "91c6f40e2e1be69a2acbfe35f5e8d9849f6ef56d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Login_VF.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Login_VF.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 545,
+            "modifiedTime": 1492767694592,
+            "changeTime": 1492767694592,
+            "contentHash": "480edd27a3a703ade563fc603aba0e9a8e231a2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Login_VF.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Login_VF.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 285,
+            "modifiedTime": 1492767694590,
+            "changeTime": 1492767694590,
+            "contentHash": "352e2541983a672eb378bfecaddbd222a0178a4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Welcomepage_VF.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Welcomepage_VF.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 331,
+            "modifiedTime": 1492767694595,
+            "changeTime": 1492767694595,
+            "contentHash": "22becb6a1c885daed557e067f2509891f43b9520",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Welcomepage_VF.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\pages\\Welcomepage_VF.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 290,
+            "modifiedTime": 1492767694594,
+            "changeTime": 1492767694594,
+            "contentHash": "4000f015972b6fa5c84b3d7df81f8c3ae0016f25",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492594683525,
+            "changeTime": 1492594683525,
+            "contentHash": "0d7baefb52dbc5ce7916a70d04c9d1a44db4dfd8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\tabs\\TestObject__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace\\force-app\\main\\default\\tabs\\TestObject__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 274,
+            "modifiedTime": 1492594683542,
+            "changeTime": 1492594683542,
+            "contentHash": "743b8ff53c3b38ab5bc7efcfdaa37284cbc17634",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MST\\SFDX_Projects\\DXspace",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\MST\\SFDX_Projects\\DXspace",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1492766909223,
+            "changeTime": 1492766909223,
+            "contentHash": "2b8cadb1cc94f3b04d8b89fefeb08081b2b17bee",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

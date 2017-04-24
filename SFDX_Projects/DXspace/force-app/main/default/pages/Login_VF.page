@@ -1,0 +1,15 @@
+<apex:page Controller="LoginClass_AC" standardStylesheets="false" sidebar="false">
+    <style>
+    .login_form
+        {
+        background-color:skyblue;
+        }
+    </style>
+<apex:form >
+    <div class="login_form" align="center">
+         Username<apex:inputText id="username" label="username" value="{!username}" /><br /><br />
+    Password<apex:inputSecret id="passkey" label="passkey" value="{!password}" /><br /><br />
+    <apex:commandButton value="Submit" id="Submit" action="{!checklogin}" />
+    </div>
+</apex:form>    
+</apex:page>

@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "TestObject__c",
+                "referenceId": "TestObject__cRef1"
+            },
+            "Name": "Test1",
+            "Description__c": "test",
+            "record_created_date__c": "2017-04-21"
+        }
+    ]
+}
