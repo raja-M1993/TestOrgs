@@ -1,0 +1,119 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "record2",
+            "Industry": "Apparel",
+            "Type": "Prospect",
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef1"
+                        },
+                        "LastName": "new contact"
+                    }
+                ]
+            },
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef1"
+                        },
+                        "Name": "opportunity",
+                        "StageName": "Id. Decision Makers",
+                        "CloseDate": "2017-04-24"
+                    }
+                ]
+            },
+            "Cases": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Case",
+                            "referenceId": "CaseRef1"
+                        },
+                        "Origin": "Phone",
+                        "Status": "Escalated"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "test account",
+            "Industry": "Finance",
+            "Type": "Customer - Direct",
+            "Contacts": {
+                "records": []
+            },
+            "Opportunities": {
+                "records": []
+            },
+            "Cases": {
+                "records": []
+            }
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "test account",
+            "Industry": "Healthcare",
+            "Type": "Customer - Direct",
+            "Opportunities": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Opportunity",
+                            "referenceId": "OpportunityRef2"
+                        },
+                        "Name": "test opp",
+                        "StageName": "Prospecting",
+                        "CloseDate": "2017-04-24"
+                    }
+                ]
+            },
+            "Cases": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Case",
+                            "referenceId": "CaseRef2"
+                        },
+                        "Origin": "Phone",
+                        "Status": "New"
+                    }
+                ]
+            },
+            "Contacts": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef2"
+                        },
+                        "LastName": "test name"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Contact",
+                            "referenceId": "ContactRef3"
+                        },
+                        "LastName": "contact test"
+                    }
+                ]
+            }
+        }
+    ]
+}
